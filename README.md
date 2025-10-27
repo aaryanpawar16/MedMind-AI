@@ -76,7 +76,7 @@ All your medical records stay safe inside the Medical Vault.
 
 Clone the repo:
 
-git clone https://github.com/yourusername/medmind.git
+git clone https://github.com/JustXutkarsh/medmind.git
 cd medmind
 
 
